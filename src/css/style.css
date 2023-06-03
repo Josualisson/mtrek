@@ -200,6 +200,9 @@ nav{
 
 /* Display Grid Empresas */
 
+.empresas-div__img{
+    margin-top: 20px !important;
+}
 .empresas-line2{
     margin-top: -0px !important;
 }
